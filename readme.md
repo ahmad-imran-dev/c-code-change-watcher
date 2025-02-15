@@ -33,4 +33,4 @@ npm run watch
 ```
 #### Contributions
 
-Contributions are welcome! Please feel free to submit pull requests.
+Contributions are welcome!  Please feel free to submit pull requests.
