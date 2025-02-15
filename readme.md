@@ -17,7 +17,7 @@ Do not type the same command again and again for running c++ files. Instead run 
      ```
    - Navigate to the project directory:
      ```bash
-     cd data-science-programming
+     cd project-dir
      ```
    - Install the dependencies:
      ```bash
