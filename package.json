@@ -1,9 +1,9 @@
 {
-  "name": "data-science-programming",
+  "name": "auto-compiler",
   "version": "1.0.0",
   "description": "Auto-compile C++ files on change",
   "scripts": {
-    "watch": "nodemon --exec \"g++ -o output main.cpp && ./output\" --ext cpp,h --ignore output",
+    "watch": "npx nodemon --exec \"g++ -o output main.cpp && ./output\" --ext cpp,h --ignore output",
     "start": "g++ -o output main.cpp && ./output"
   },
   "dependencies": {
