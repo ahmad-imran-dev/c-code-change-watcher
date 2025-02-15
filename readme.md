@@ -1,7 +1,6 @@
 # C++ Code change Auto Watcher
 
-Do not type the same command many times for running c++ files. Instead run this script once.
-This project provides a simple setup for automatically compiling and running C++ code whenever changes are made to the source files (`.cpp` and `.h`). It uses `nodemon` to watch for file changes and execute the compilation and run commands.
+Do not type the same command again and again for running c++ files. Instead run this script once and Increase your code productivity upto 10x. This project provides a simple setup for automatically compiling and running C++ code whenever changes are made to the source files (`.cpp` and `.h`). It uses `nodemon` to watch for file changes and execute the compilation and run commands.
 
 ## Getting Started
 
@@ -14,7 +13,7 @@ This project provides a simple setup for automatically compiling and running C++
 
    - Clone this repository:
      ```bash
-     git clone https://github.com/ahmad-imran-dev/data-science-programming.git
+     git clone https://github.com/ahmad-imran-dev/c-code-change-watcher.git
      ```
    - Navigate to the project directory:
      ```bash
@@ -34,4 +33,4 @@ npm run watch
 ```
 #### Contributions
 
-Contributions are welcome!  Please feel free to submit pull requests.
+Contributions are welcome! Please feel free to submit pull requests.
