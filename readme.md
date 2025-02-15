@@ -26,11 +26,12 @@ Do not type the same command again and again for running c++ files. Instead run 
 
 ## Usage
 
-Compiles the `main.cpp` file and creates an executable file named `output`. Then, it runs the `output` file. This command watch for file changes. If the main.cpp file changes then the code will be automatically executed instead of typing the command many times.
+Compiles the `main.cpp` file and creates an executable file named `output`. Then, it runs the `output` file and watch for file changes. If the main.cpp file changes then the code will be automatically executed instead of typing the run command many times.
 
 ```bash
 npm run watch
 ```
+
 #### Contributions
 
-Contributions are welcome!  Please feel free to submit pull requests.
+Contributions are welcome! Please feel free to submit pull requests.
